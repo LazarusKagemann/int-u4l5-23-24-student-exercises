@@ -11,6 +11,8 @@ button.addEventListener("click", function() {
     let password = document.querySelector(".password").value;
     let message = document.querySelector(".message");
 
+
+if (username & password )
     // 2. Create a compound conditional statement to check for the following:
     //  - If the username AND password is correct, update the text of the message div to say "Success!"
     
